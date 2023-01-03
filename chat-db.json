@@ -1,15 +1,22 @@
 [
   {
-    "q": [
-      "what's your name ?",
-      "what is your name ?"
-    ],
-    "a": "I am just a Chat bot, but my creator's name is Daniel."
+    "q": ["what's your name ?", "what is your name ?"],
+    "a": "I'm just a Chat bot, but my creator's name is Daniel."
   },
   {
-    "q": [
-      "How are you ?"
-    ],
+    "q": ["how are you ?", "how're you ?"],
     "a": "I'm fine."
+  },
+  {
+    "q": ["how can i contact you ?", "how can i contact your creator ?", "where can i contact you ?", "how can i reach out to you ?", "contact"],
+    "a": "You can contact my creator at <address>danfaldev@gmail.com</address>, or on his social media (longer reply time)."
+  },
+  {
+    "q": ["how old are you ?", "what's your age ?", "what is your age ?"],
+    "a": "I was created on January, the 3rd of 2023."
+  },
+  {
+    "q": ["how did you create this website ?", "how did you create this web site ?", "how did you create this site ?", "how did your creator create this website ?", "how did your creator create this web site ?", "how did your creator create this site ?"],
+    "a": "Daniel created this website in order to show his abilities in front-end development. He used Visual Studio Code as his IDE, and the React JS library to create a lightweight web application. Also he has a preference for Sass over vanilla CSS in those kind of projects, so he implemented it."
   }
 ]
