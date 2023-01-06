@@ -22,9 +22,5 @@
   {
     "q": ["introduce yourself", "who are you ?", "what are you ?"],
     "a": "Hello! I have no particular name, but my purpose is to answer all of your questions. Please feel free to ask anything on your mind."
-  },
-  {
-    "q": "hello",
-    "a": "Hi!"
   }
 ]
