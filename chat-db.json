@@ -13,10 +13,14 @@
   },
   {
     "q": ["how old are you ?", "what's your age ?", "what is your age ?"],
-    "a": "I was created on January, the 3rd of 2023."
+    "a": "I was created on Tuesday, September 3rd 2025."
   },
   {
     "q": ["how did you create this website ?", "how did you create this web site ?", "how did you create this site ?", "how did your creator create this website ?", "how did your creator create this web site ?", "how did your creator create this site ?"],
     "a": "Daniel created this website in order to show his abilities in front-end development. He used Visual Studio Code as his IDE, and the React JS library to create a lightweight web application. Also he has a preference for Sass over vanilla CSS in those kind of projects, so he implemented it."
+  },
+  {
+    "q": ["introduce yourself", "who are you ?", "what are you ?"],
+    "a": "Hello! I have no particular name, but my function is to answer all of your questions. Please feel free to ask anything on your mind."
   }
 ]
